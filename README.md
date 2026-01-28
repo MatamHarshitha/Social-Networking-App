@@ -1,11 +1,11 @@
 # Social Networking App
 
 Technologies Used
-Node.js – Backend runtime environment
-Express.js – Web framework for building REST APIs
-JavaScript – Backend logic implementation
-MongoDB – NoSQL database for data storage
-JWT (JSON Web Tokens) – Authentication and authorization
+- Node.js – Backend runtime environment
+- Express.js – Web framework for building REST APIs
+- JavaScript – Backend logic implementation
+- MongoDB – NoSQL database for data storage
+- JWT (JSON Web Tokens) – Authentication and authorization
 
 ## Key Features
 
