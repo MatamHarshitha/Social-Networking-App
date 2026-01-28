@@ -26,11 +26,11 @@ Technologies Used
 2. Install dependencies:
    npm install
 
-3.Configure Environment Variables:
+ 3.Configure Environment Variables:
   - Create a .env file and add
   - MONGO_URI=your_mongodb_connection_string
   - JWT_SECRET=your_jwt_secret
   - PORT=3000
 
-4.Run the Server:
+ 4.Run the Server:
   npm start
