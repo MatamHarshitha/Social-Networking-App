@@ -32,5 +32,5 @@ Technologies Used
   - JWT_SECRET=your_jwt_secret
   - PORT=3000
 
- 4.Run the Server:
-   npm start
+ 4. Run the Server:
+    npm start
